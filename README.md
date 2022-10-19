@@ -6,11 +6,11 @@ A React App with general info on all Breaking Bad characters and a search engine
 
 ## Screenshots
 
-[!screenshot1](./src/assets/bb1.png)
-[!screenshot2](./src/assets/bb2.png)
-[!screenshot3](./src/assets/bb3.png)
-[!screenshot4](./src/assets/bb4.png)
-[!screenshot5](./src/assets/bb5.png)
+![screenshot1](./src/assets/bb1.png)
+![screenshot2](./src/assets/bb2.png)
+![screenshot3](./src/assets/bb3.png)
+![screenshot4](./src/assets/bb4.png)
+![screenshot5](./src/assets/bb5.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
